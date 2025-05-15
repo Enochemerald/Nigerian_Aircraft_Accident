@@ -76,3 +76,9 @@ Certain commercial and military aircraft types were associated with higher fatal
 - **Military operators (NAF)** accounted for a large share of accidents and fatalities.
 - **Commercial carriers** like Dana Air, Bellview Airlines, and Sosoliso also showed significant fatality counts.
 - **Substantial seasonal variations** are observed, but more granular monthly data would be needed for deeper trend analysis.
+
+## 📁 Data Source
+
+The analysis is based on the data extracted from **Aviation Safety Network**
+https://asn.flightsafety.org/asndb/country/5N
+
